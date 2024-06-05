@@ -1,5 +1,3 @@
-// Weapons subject to change in the next update due to wrong localisation
-// List of Weapons : https://encore.moe/fr/weapon
 {
     "Convene Tracker": "Tracker Convier",
     "Convene": "Convier",
@@ -68,7 +66,7 @@
     "Allow Brevent permission for notifications.": "Autorisez la permission de Brevent pour des notifications",
     "Go to Developer Options.": "Allez aux options de developpeur",
     "For Realme, Oppo, and OnePlus users: enable the \"Disable permission monitoring.\" (You can turn it off again when not in use.)": "Pour les utilisateurs de Realme, Oppo, and OnePlu: Activez \"Disable permission monitoring.\" (Vous pouvez le désactiver si vous ne l'utilisez plus)",
-    "For Xiaomi users: Enable USB Debugging.": "Pour les utilisateurs de Xiaomi: Activez "USB Debugging"",
+    "For Xiaomi users: Enable USB Debugging.": "Pour les utilisateurs de Xiaomi: Activez \"USB Debugging\"",
     "Tap Wireless Debugging and allow permissions. (You can turn it off again when not in use.)": "Appuyez sur Wireless Debugging et activez les permissions. (Vous pouvez le désactiver si vous ne l'utilisez plus)",
     "Go back to Brevent and tap Wireless Debugging Port.": "Revenez à Brevent et appuyez sur Wireless Debugging Port.",
     "Return to Wireless Debugging and tap Pair Device with Pairing Code, then enter your pairing code.": "Revenez sur Wireless Debugging et associez votre appareil avec le code fourni, appuyez sur Entrer pour avoir le code.",
