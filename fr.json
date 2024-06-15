@@ -5,7 +5,12 @@
         "five_star_convenes": "Conviers 5✦",
         "four_star_convenes": "Conviers 4✦",
         "convenes_per_day": "Conviers par jour",
-        "total_convenes": "Total des conviers"
+        "five_star_convenes_by_roll_number": "5✦ Convenes By Roll Number",
+        "four_star_convenes_by_roll_number": "4✦ Convenes By Roll Number",
+        "total_convenes": "Total des conviers",
+        "chance": "Chance%",
+        "count": "Count",
+        "roll_number": "Roll #%s"
     },
     "Developers": "Developpeur",
     "Report a bug": "Reporter un bug",
