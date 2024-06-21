@@ -16,7 +16,14 @@
         "count": "Count",
         "roll_number": "Roll #%s",
         "five_star_luck": "5✦ Luck",
-        "four_star_luck": "4✦ Luck"
+        "four_star_luck": "4✦ Luck",
+        "resonance_chain_number": "Resonance Chain %s",
+        "rank_number": "Rank %s",
+        "top_percentage": "Top %s%%",
+        "top_luckier_than": "Luckier than %s%% of users",
+        "bottom_percentage": "Bottom %s%%",
+        "bottom_less_lucky_than": "Less lucky than %s%% of users",
+        "top_empty_message": "Top ...%"
     },
     "share": {
         "name_or_uid": "Name or UID",
