@@ -1,4 +1,8 @@
 {
+    "Download": "Download",
+    "Edit": "Edit",
+    "Share": "Share",
+    "Save": "Save",
     "convene": {
         "global_statistics": "Statistiques globales",
         "view_the_global_statistics_for_%s": "Afficher les statistiques globales pour %s.",
@@ -10,7 +14,15 @@
         "total_convenes": "Total des conviers",
         "chance": "Chance%",
         "count": "Count",
-        "roll_number": "Roll #%s"
+        "roll_number": "Roll #%s",
+        "five_star_luck": "5✦ Luck",
+        "four_star_luck": "4✦ Luck"
+    },
+    "share": {
+        "name_or_uid": "Name or UID",
+        "last_updated": "Last Updated: %s",
+        "customize_share_convene": "Customize Share Convene",
+        "customize_avatar": "Customize Avatar"
     },
     "Developers": "Developpeur",
     "Report a bug": "Reporter un bug",
